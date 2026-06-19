@@ -107,7 +107,7 @@ export default function App() {
             </p>
 
             <ImagePlaceholder 
-              src="https://placehold.co/800x300/f0f9ff/3e517a?text=Captura+de+Pantalla:+SQLi" 
+              src="/img_gargio/sqli_gargio.png" 
               alt="Captura de Inyección SQL"
               caption="Fig 1: Extracción de tablas de usuarios mediante UNION SELECT en el portal."
             />
@@ -135,7 +135,7 @@ export default function App() {
             </p>
 
             <ImagePlaceholder 
-              src="https://placehold.co/800x300/f0f9ff/3e517a?text=Captura+de+Pantalla:+XSS" 
+              src="/img_gargio/xss_gargio.png" 
               alt="Captura de XSS"
               caption="Fig 2: Robo de cookie de sesión de administrador mediante XSS Almacenado."
             />
@@ -163,7 +163,7 @@ export default function App() {
             </p>
 
             <ImagePlaceholder 
-              src="https://placehold.co/800x300/f0f9ff/3e517a?text=Captura+de+Pantalla:+Comandos+RCE" 
+              src="/img_gargio/comandos_gargio.png" 
               alt="Captura de Inyección de Comandos"
               caption="Fig 3: Ejecución de 'cat /etc/passwd' concatenado al comando ping."
             />
